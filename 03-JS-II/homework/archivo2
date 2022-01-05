@@ -1,0 +1,8 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+--> `for` : es una instrución que tiene 3 partes:
+           for (var i =0 ; i < 100; i++)
+            (declaramos la varaible que vamos a usar; el rango que abarca la variable; còmo quieres que vaya incremenetando la variable)
+--> `&&`  : o ~
+--> `||`  : y ~
+--> `!`   : No ~
