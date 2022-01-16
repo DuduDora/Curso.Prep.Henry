@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	--> Objetos: colecciòn de propiedades, parecido a un array
+	--> Propiedades: son strings, como parametros dentro del objeto
+	--> Métodos: funciones dentro de la propiedad
+	--> Bucle `for…in`: segundo bucle ne js, que ayuda a correr una variable dentro de un objeto
+	--> Notación de puntos vs notación de corchetes: 
+        - notacion de puntos: para llamar el valor de una propiedad del objeto
+        - notacion de corchetes: para llamar al elemento de una matriz
