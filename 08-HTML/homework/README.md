@@ -48,6 +48,8 @@ III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anterior
 ```
 IV. Suba su trabajo a su repositorio de github`
 ```
+------**********************
+
 
 ### Crédito adicional:
 >   Para hacer los extra credits, generalmente será necesario que investigue algunas cosas por su cuenta en Internet.
